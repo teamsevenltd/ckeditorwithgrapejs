@@ -61,7 +61,7 @@ const plugin: Plugin<PluginOptions> = (editor, options = {}) => {
     options: {},
     customRte: {},
     position: 'left',
-    ckeditor: 'https://cdn.ckeditor.com/4.21.0/standard-all/ckeditor.js',
+    ckeditor: 'https://cdn.ckeditor.com/4.25.0-lts/standard/ckeditor.js',
     onToolbar: () => {},
     ...options,
   };
