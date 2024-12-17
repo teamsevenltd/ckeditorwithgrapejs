@@ -20,13 +20,13 @@
     "ckeditor",
     "wysiwyg"
   ],
-  "author": "Artur Arseniev",
+  "author": "Teamseven Solutions",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@types/ckeditor4": "^4.20.0"
+    "@types/ckeditor4": "^4.25.0"
   },
   "devDependencies": {
-    "grapesjs": "^0.21.2",
-    "grapesjs-cli": "^4.1.0"
+    "grapesjs": "^0.22.4",
+    "grapesjs-cli": "^4.1.3"
   }
 }
