@@ -12,7 +12,7 @@ export type PluginOptions = {
   /**
    * Pass CKEDITOR constructor or the CDN string from which the CKEDITOR will be loaded.
    * If this option is empty, the plugin will also check the global scope (eg. window.CKEDITOR)
-   * @default 'https://cdn.ckeditor.com/4.21.0/standard-all/ckeditor.js'
+   * @default 'https://cdn.ckeditor.com/4.25.0-lts/standard-all/ckeditor.js'
    */
   ckeditor?: CKE.CKEditorStatic | string;
 
