@@ -23,7 +23,7 @@
   "author": "Teamseven Solutions",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@types/ckeditor4": "^4.24.0"
+    "ckeditor4": "^4.25.0"
   },
   "devDependencies": {
     "grapesjs": "^0.22.4",
